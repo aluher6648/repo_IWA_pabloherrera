@@ -14,11 +14,15 @@ Un párrafo, con palabras en **negrita**, en *cursiva*, en `código`.
 - First item
 - Second item
 - Third item
+  
 [title](https://www.hackcs.uj.es)
-[title]([https://www.example.com](https://github.com/aluher6648/repo_IWA_pabloherrera/blob/main/README.md)https://github.com/aluher6648/repo_IWA_pabloherrera/blob/main/README.md)
+
+[title](https://github.com/aluher6648/repo_IWA_pabloherrera/blob/main/README.md)
+
 ![alt text](image.jpg)
 
-| Syntax      | Description          |
+
+| nombre      | Description          |
 |-------------|----------------------|
 | Título      | "Introducción a la Programación" |
 | Párrafo     | "En este capítulo, aprenderemos los conceptos básicos de la programación, ." |
