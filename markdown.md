@@ -17,6 +17,7 @@ Un párrafo, con palabras en **negrita**, en *cursiva*, en `código`.
 [title](https://www.hackcs.uj.es)
 [title]([https://www.example.com](https://github.com/aluher6648/repo_IWA_pabloherrera/blob/main/README.md)https://github.com/aluher6648/repo_IWA_pabloherrera/blob/main/README.md)
 ![alt text](image.jpg)
+
 | Syntax      | Description          |
 |-------------|----------------------|
 | Título      | "Introducción a la Programación" |
