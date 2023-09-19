@@ -19,7 +19,7 @@ Un párrafo, con palabras en **negrita**, en *cursiva*, en `código`.
 
 [title](https://github.com/aluher6648/repo_IWA_pabloherrera/blob/main/README.md)
 
-![alt text](image.jpg)
+![alt text]([image.jpg](https://github.com/aluher6648/repo_IWA_pabloherrera/blob/main/image.png))
 
 
 | nombre      | Description          |
