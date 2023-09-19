@@ -15,7 +15,7 @@ Un párrafo, con palabras en **negrita**, en *cursiva*, en `código`.
 - Second item
 - Third item
   
-[title](https://www.hackcs.uj.es)
+[title](https://www.hackcs.uji.es)
 
 [title](https://github.com/aluher6648/repo_IWA_pabloherrera/blob/main/README.md)
 
@@ -24,10 +24,10 @@ Un párrafo, con palabras en **negrita**, en *cursiva*, en `código`.
 
 | nombre      | Description          |
 |-------------|----------------------|
-| Título      | "Introducción a la Programación" |
-| Párrafo     | "En este capítulo, aprenderemos los conceptos básicos de la programación, ." |
-| Encabezado  | "Capítulo 1: Variables" |
-| Lista       | "1. Variables enteras\n2. Variables flotantes\n3. Cadenas de texto" |
+| Título      | "MARKDOWN" |
+| Párrafo     | "Probando que es markdown y que puede hacer ." |
+| Encabezado  | "Capítulo 1: Markdown ejercicio 1" |
+| Lista       | "1. ejercicio1\n2. Ejercicio2\n3. ejercicio3" |
 
 Sube el fichero al repositorio remoto.
 
